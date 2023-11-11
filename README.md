@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rouxvolontedev
+- 👨‍💻 I'm Full-Stack developer
+- 💼 I'm currently working on [Asimov Academy](https://asimov.academy/)
+- 📕 I'm studying: `Javascript`
+- ⭐ I have experience with: `HTML` `CSS` `SASS` `Bootstrap` `Javascript` `PHP` `SQL` `Wordpress` `GIT` `Linux` `SEO`
